@@ -8,7 +8,7 @@ This is a simple **HTML Survey Form** project that collects user information and
 The form is designed using basic HTML elements and grouped using `<fieldset>` for better structure and readability.
 
 ---
-
+[live](https://amrithaamzz.github.io/survey-form/)
 ![image](./image1.png)
 ![image](./image2.png)
 
